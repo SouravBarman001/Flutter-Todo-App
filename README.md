@@ -3,7 +3,7 @@
 ## Our Goal
 Here I will look at various Flutter architecture choices and learn to use the officially recommended Provider package to manage our app state.
 
-## What you will learn
+## What I will learn
 
 - Understand what is state and why we need to manage it.
 - Understand the difference between ephemeral (local) state and app state.
@@ -17,6 +17,6 @@ Here I will look at various Flutter architecture choices and learn to use the of
 - Understand how the Provider package works and use it to manage app state.
 
 - UI of this Application
--  ![End Banner](https://github.com/SouravBarman001/Flutter-Todo-App/blob/main/images/todo1.png)
--  ![End Banner](https://github.com/SouravBarman001/Flutter-Todo-App/blob/main/images/todo2.png)
+  ![End Banner](https://github.com/SouravBarman001/Flutter-Todo-App/blob/main/images/todo1.png)
+  ![End Banner](https://github.com/SouravBarman001/Flutter-Todo-App/blob/main/images/todo2.png)
  
