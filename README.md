@@ -18,5 +18,5 @@ Here I will look at various Flutter architecture choices and learn to use the of
 
 - UI of this Application
 -  ![End Banner](https://github.com/SouravBarman001/Flutter-Todo-App/blob/main/images/todo1.png)
-![End Banner](https://github.com/SouravBarman001/Flutter-Todo-App/blob/main/images/todo2.png)
+-  ![End Banner](https://github.com/SouravBarman001/Flutter-Todo-App/blob/main/images/todo2.png)
  
