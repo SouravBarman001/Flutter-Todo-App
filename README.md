@@ -16,7 +16,7 @@ Here I will look at various Flutter architecture choices and learn to use the of
 - Learn about design patterns and why they are useful.
 - Understand how the Provider package works and use it to manage app state.
 
-- UI of this Application
+## UI of this Application
   ![End Banner](https://github.com/SouravBarman001/Flutter-Todo-App/blob/main/images/todo1.png)
   ![End Banner](https://github.com/SouravBarman001/Flutter-Todo-App/blob/main/images/todo2.png)
  
